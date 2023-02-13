@@ -1,0 +1,4 @@
+INSERT INTO sql_price (id, brand_id, start_date, end_date, price_list, product_id, priority, price, curr) VALUES (1, 1, '2020-06-14T00:00:00.00Z', '2020-12-31T23:59:59.00Z', 1, 35455, 0, 35.50, 'EUR');
+INSERT INTO sql_price (id, brand_id, start_date, end_date, price_list, product_id, priority, price, curr) VALUES (2, 1, '2020-06-14T15:00:00.00Z', '2020-06-14T18:30:00.00Z', 2, 35455, 1, 25.45, 'EUR');
+INSERT INTO sql_price (id, brand_id, start_date, end_date, price_list, product_id, priority, price, curr) VALUES (3, 1, '2020-06-15T00:00:00.00Z', '2020-06-15T11:00:00.00Z', 3, 35455, 1, 30.50, 'EUR');
+INSERT INTO sql_price (id, brand_id, start_date, end_date, price_list, product_id, priority, price, curr) VALUES (4, 1, '2020-06-15T16:00:00.00Z', '2020-12-31T23:59:59.00Z', 4, 35455, 1, 38.95, 'EUR');
